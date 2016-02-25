@@ -1,0 +1,28 @@
+body{
+	height:100%;
+}
+#send{
+	padding: 10px 70px;
+	display: inline-block;
+	background-color: #3498db;
+}
+#msg:focus,#pnum:focus{
+	border-color: #bdc3c7;
+}
+.tab, footer{
+	clear: both;
+}
+footer{
+	
+	height: auto;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	position: absolute;
+}
+.fb-follow{
+	top :4px;
+}
+.tw{
+	margin: 1% 0 0 1%;
+}
