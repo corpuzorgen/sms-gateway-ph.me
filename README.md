@@ -4,7 +4,7 @@ Developed out of curiosity.
 
 #Instructions to make this thing work.
 
-1. Go to https://www.smsgateway.me
+1. Go to https://smsgateway.me/
 2. Sign-up to get an account and KEY/ID
 3. Go to Documentaion and get the message API or call API
 4. Embed it to your webpage.
